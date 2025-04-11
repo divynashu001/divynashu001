@@ -20,9 +20,20 @@
 
 ---
 
-### 📈 GitHub Stats:
+### 🚀 Deployment Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=divynashu001&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divynashu001&theme=radical" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=divynashu001&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divynashu001&layout=compact&theme=radical" />
 </p>
+
 
