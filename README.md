@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/divynashu001](https://github.com/divynashu001)
 
-- 📫 How to reach me: **divyanshudhiman003@gmail.com**
+- 📫 How to reach me: **divyanshudhiman41@gmail.com**
 
 ---
 
