@@ -5,7 +5,7 @@
 
 - 💻 I’ve built personal projects like a **Portfolio**, **CRUD App**, and **Authentication System**
 
-- 🔭 I’m currently working on a **Furniture E-Commerce Project (MERN stack)**
+- 🔭 I’m currently working on a **Functional UI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/divynashu001](https://github.com/divynashu001)
 
